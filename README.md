@@ -50,7 +50,7 @@ Meu nome é **Rafael**, gosto de criar coisas novas e fazê-las funcionar.
 - [🌐 Simulação de uma infraestrutura web](https://github.com/RafaelWurzius/infraestrutura_e_servicos_web)  
 - [✈️ Algoritmo Genético para um problema de distribuição de cargas ](https://github.com/RafaelWurzius/algoritmoGenetico)  
 - [🔎 Algoritmos de busca](https://github.com/RafaelWurzius/AlgoritmosDeBusca)  
-- [📊 Dashbordas para visualização em tempo real de dados](https://github.com/RafaelWurzius/dashboard/blob/main/main.py)
+- [📊 Dashbordas para visualização em tempo real de dados](https://github.com/RafaelWurzius/dashboard)
 - [#️⃣ Algorimo para a execução de braço mecânico simples que escreve e joga o jogo da velha](https://github.com/RafaelWurzius/ProjetoSistemasEmbarcados)
 - [🎤 App de Karaokê ](https://github.com/RafaelWurzius/LPRG3_projeto2)
 - [🐦 Jogo Pegue o Pomo](https://github.com/RafaelWurzius/PegueOPomo)
