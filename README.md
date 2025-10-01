@@ -43,3 +43,16 @@ Meu nome é **Rafael**, gosto de criar coisas novas e fazê-las funcionar.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelwurzius&show_icons=true&include_all_commits=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwurzius&layout=compact&theme=dracula)
+
+---
+### Projetos acadêmicos
+
+- [🌐 Simulação de uma infraestrutura web](https://github.com/RafaelWurzius/infraestrutura_e_servicos_web)  
+- [✈️ Algoritmo Genético para um problema de distribuição de cargas ](https://github.com/RafaelWurzius/algoritmoGenetico)  
+- [🔎 Algoritmos de busca](https://github.com/RafaelWurzius/AlgoritmosDeBusca)  
+- [📊 Dashbordas para visualização em tempo real de dados](https://github.com/RafaelWurzius/dashboard/blob/main/main.py)
+- [#️⃣ Algorimo para a execução de braço mecânico simples que escreve e joga o jogo da velha](https://github.com/RafaelWurzius/ProjetoSistemasEmbarcados)
+- [🎤 App de Karaokê ](https://github.com/RafaelWurzius/LPRG3_projeto2)
+- [🐦 Jogo Pegue o Pomo](https://github.com/RafaelWurzius/PegueOPomo)
+- [🎶 Jogo Que Som é Esse?](https://github.com/RafaelWurzius/que-som-e-esse)
+- [🧮 Jogo Forme Equações ](https://github.com/RafaelWurzius/forme-equacoes)
